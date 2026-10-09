@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Alejandro Hernandez Garcia`
+- **CCID:** `ahernan3`
 
 ## References and Resources
 
